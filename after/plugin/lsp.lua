@@ -41,8 +41,8 @@ require('lspconfig').gopls.setup({
 	}
 })
 require('lspconfig').rust_analyzer.setup({})
-require('lspconfig').tsserver.setup({})
-
+require('lspconfig').ts_ls.setup({})
+require('lspconfig').java_language_server.setup({})
 ---
 -- Autocompletion setup
 ---

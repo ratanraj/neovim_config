@@ -56,6 +56,7 @@ return {
 	{'folke/twilight.nvim'},
 	{'rose-pine/neovim'},
 	{'stevearc/conform.nvim'},
-	{'nvimdev/indentmini.nvim'},
+	-- {'nvimdev/indentmini.nvim'},
 	{'AckslD/nvim-neoclip.lua'},
+    {'nacro90/numb.nvim'},
 }
